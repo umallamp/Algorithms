@@ -1,0 +1,9 @@
+package array;
+
+public class Permutations {
+
+	public void printPermutations(int[] array, int min, int max) {
+
+	}
+
+}
